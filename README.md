@@ -1,2 +1,1 @@
-# Projects
-My projects and assignments
+Basic Projects and Assignments
